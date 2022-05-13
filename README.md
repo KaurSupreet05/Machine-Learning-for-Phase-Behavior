@@ -7,5 +7,5 @@ Principal component analysis and t-stochastic neighbor embedding methods impleme
 
 # Protocol ( Here Widom-Rowlinson Mixture is taken as an example model system)
 * After obtaining MD/MS simulation trajectory, calculate the feature vector using run.sh
-* .dat files obtained for each density point are fed to the pca_tsne.py to obtain transformed data
+* .out files obtained for each density point are fed to the pca_tsne.py to obtain transformed data
 * plotting the principal components in 2D plot using plot.py
